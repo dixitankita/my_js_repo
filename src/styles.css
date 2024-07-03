@@ -12,6 +12,7 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+  
 }
 
 div#main {
@@ -70,7 +71,7 @@ p {
   font-size: 18px;
   line-height: 1.5;
   margin-bottom: 0;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 p.large {
@@ -94,12 +95,13 @@ li::marker {
 }
 
 a {
-  color: black;
+  color: rgb(255, 255, 255);
   text-decoration: none;
+  font-size: large;
 }
 
 a:hover {
-  color: #4e567e;
+  color: #818282;
 }
 
 .container {
@@ -122,4 +124,10 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+#portfolio a{
+  color: black;
+}
+#portfolio a:hover{
+  text-decoration: underline;
 }

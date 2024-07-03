@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Ankita Dixit",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  title: "Front End Developer",
+  email: "ankita03112003@gmail.com",
+  gitHub: "dixitankita",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "ankitadixit40",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
